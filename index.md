@@ -1,17 +1,17 @@
 ## Here I would like to tell you about myself. 
 
-I have recently developed an interest into Cyber Security field. I has become a great match with my personality. 
+I have recently developed an interest into Cyber Security field. It has become a great match with my personality. 
 
 I have recently done some malware analysis. It was like solving a hard puzzle and I loved it while bringing together the pieces that I found.  
 
-Right now I am looking for a new job. 
+Right now I am looking for a new job. Positions I am interested are SOC Analyst, Cyber Security Analyst. 
 
 
 
 
-
+-----
 bottom of this line will be deleted after this page is complete. 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----
 You can use the [editor on GitHub](https://github.com/yakbu002/yusufakbulut.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
