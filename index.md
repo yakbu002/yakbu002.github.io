@@ -6,9 +6,6 @@ I have recently done some malware analysis. It was like solving a hard puzzle an
 
 Right now I am looking for a new job. Positions I am interested are SOC Analyst, Cyber Security Analyst. 
 
-<script src="https://tryhackme.com/badge/583081"></script>
-
-
 -----
 bottom of this line will be deleted after this page is complete. 
 ----
